@@ -8,3 +8,6 @@ new input
 8
 7
 6
+1123
+aswe
+vssqw
