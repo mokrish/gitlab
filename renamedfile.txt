@@ -2,3 +2,4 @@ This is a new file
 added to test
 rename
 modified file
+one more change
